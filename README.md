@@ -46,6 +46,10 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
+<img width="1308" height="683" alt="Screenshot 2026-03-15 141110 - Copy" src="https://github.com/user-attachments/assets/0ff60658-0be0-413b-bb7b-0c4080c339bb" />
+
+<img width="947" height="529" alt="Screenshot 2026-03-15 141058" src="https://github.com/user-attachments/assets/27c18043-9b90-418d-8571-05e7a7d8af3b" />
+
 
 
 
